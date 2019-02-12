@@ -1,0 +1,7 @@
+import java.io*;
+
+int main(strg [] arg){
+
+println("Hello World");
+
+}
